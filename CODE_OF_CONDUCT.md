@@ -39,7 +39,7 @@ The following actions are explicitly forbidden:
 
 ## Where does the Code of Conduct apply?
 
-If you participate in or contribute to the Elixir ecosystem in any way, you are encouraged to follow the Code of Conduct while doing so.
+If you participate in or contribute to the <project> ecosystem in any way, you are encouraged to follow the Code of Conduct while doing so.
 
 Explicit enforcement of the Code of Conduct applies to the [GitHub projects][1], code reviews.
 
